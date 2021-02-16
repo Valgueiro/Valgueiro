@@ -4,7 +4,9 @@
 
 I’m currently working at [CESAR](https://www.cesar.org.br/) as a Software Engineer
 Mostly I do full stack development, but I also like DevOps things a lot!
-I'm from Recife-PE in Brazil and i'm living here.
+
+
+I'm from Recife-PE in Brazil :brazil: and i'm living here.
 
 ### 🛠 Technologies that I mostly use nowadays:
 * EmberJS (Including HTML/CSS) 
