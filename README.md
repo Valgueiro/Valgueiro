@@ -3,6 +3,7 @@
 ## About me
 
 I’m currently working at [CESAR](https://www.cesar.org.br/) as a Software Engineer
+
 Mostly I do full stack development, but I also like DevOps things a lot!
 
 
