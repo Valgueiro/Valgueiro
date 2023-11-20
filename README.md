@@ -2,7 +2,7 @@
 
 ## About me
 
-I’m currently working at [Komatsu]([https://www.komatsu.com/en/]) as a Site Reliability Engineer
+I’m currently working at [Komatsu](https://www.komatsu.com/en/) as a Site Reliability Engineer
 
 I'm from Recife-PE in Brazil :brazil: and i'm living here.
 
