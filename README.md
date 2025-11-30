@@ -2,19 +2,20 @@
 
 ## About me
 
-I’m currently working at [Komatsu](https://www.komatsu.com/en/) as a Site Reliability Engineer
+I’m currently working as a Senior Software Engineer
 
 I'm from Recife-PE in Brazil :brazil: and i'm living here.
 
 ### 🛠 Technologies that I mostly use nowadays:
 
-* Kubernetes with Rancher
-* Ansible
+* Kubernetes
+* Pkl
 * Terraform
-* Azure services & Azure DevOps
 * Flux
-* Grafana Stack
-* Rook Ceph
+* Datadog
+* Helm
+* AWS
+
 
 ### 🔧 Technologies that I don't use much but already worked with
 * Python
@@ -25,7 +26,10 @@ I'm from Recife-PE in Brazil :brazil: and i'm living here.
 * RethinkDB
 * Java (Spring + Hibernate)
 * MySQL
-* C
+* Azure services & Azure DevOps
+* Rancher
+* Grafana Stack
+* Rook Ceph
  
  ## How to reach me
  * mateusvalgueiro@gmail.com
